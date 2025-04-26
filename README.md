@@ -23,3 +23,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-javed-a9a8aab4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By5Xt8DiPQ5%2BCShkPW%2BECRg%3D%3D" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohdjaved291?theme=light&font=Alegreya&ext=heatmap)
